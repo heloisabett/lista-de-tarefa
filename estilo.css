@@ -1,0 +1,40 @@
+.container{
+    width: 50%;
+    margin: 25px 0px auto;
+    text-align: center;
+
+}
+h2{
+    background-color: rgb(116, 18, 161);
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+ul li {
+   list-style-type:lower-roman;
+   text-align: left;
+
+}
+.checkbox{
+    color: rgb(35, 35, 51);
+}
+.removed label{
+   text-decoration: line-through;
+}
+body{
+    background-color: rgb(198, 180, 231);
+    justify-content: center;
+    display: flex;
+    
+}
+button{
+    background-color: rgb(172, 111, 233);
+}
+main{
+ 
+    background-color: rgb(183, 95, 212);
+    padding: 10px;
+    width: 45%;
+    border-radius: 20px;
+    border:1px solid rgb(0, 0, 0);
+    height: 25px;
+}
